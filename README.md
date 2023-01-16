@@ -1,4 +1,4 @@
-Building a simple movie app while learning react.
+#Building a simple movie app while learning react.
 What i learned
 -best file & folder structure in react
 -state
